@@ -1,1 +1,1 @@
-# samus.github.io/NullStudios
+# https://samuzx.github.io/NullStudios/
