@@ -1,3 +1,9 @@
 body {
     font-family: "Helvetica";
+	background-color: rgb(54, 53, 57)
+}
+.welcome {
+	border-radius: 100px;
+	text-align: center;
+	background-color: rgb(255, 0, 0)
 }
